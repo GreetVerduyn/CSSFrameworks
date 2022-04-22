@@ -1,3 +1,7 @@
+body {
+    width: 100vw;
+}
+
 .selector-for-some-widget {
     box-sizing: content-box;
 }
@@ -15,5 +19,15 @@
 .bg-document {
     background-color: lightsteelblue;
 }
+
+
+
+hr {
+    width: 60px;
+    margin: auto;
+}
+
+
+
 
 
